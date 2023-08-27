@@ -40,15 +40,15 @@ export default function Page(): JSX.Element {
       <div className={grid}>
         <Card
           imageSrc="/horizon.jpeg"
-          imageAlt="Cyberpunk mouse"
-          title="Odd Cyberpunk Mouse"
-          description="What is this thing? Not even we know? But it's cool, right? Is it even useful?"
+          imageAlt="Horizon Forbidden West"
+          title="Horizon Forbidden West"
+          description="Horizon Forbidden West is a 2022 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. "
         />
         <Card
           imageSrc="/immortals.jpeg"
-          imageAlt="50s mouse"
-          title="Retro Mouse"
-          description="Check out this amazing retro gaming mouse. It's like you went back to the 50s!"
+          imageAlt="Immortals of Aveum"
+          title="Immortals of Aveum"
+          description="Immortals of Aveum is a first-person shooter game developed by Ascendant Studios and published by Electronic Arts."
         />
       </div>
     </>
